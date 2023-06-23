@@ -1,0 +1,2 @@
+sortdriver.o: sortdriver.cpp
+sort.o: sort.cpp
